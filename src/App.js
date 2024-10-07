@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          WORDLE
+          WORDLE: EL VOCABLO DEL DIA
         </p>
       </header>
       <p>
