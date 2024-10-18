@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-#Branch (Main) - Wordle Code
-#Branch (Master) - Pruebas 
+# Branch (Main) - Wordle Code
+# Branch (Master) - Pruebas 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
